@@ -1,0 +1,47 @@
+.MODEL SMALL
+.CODE
+
+org 100h
+
+START:
+     MOV CX, 5
+
+L1:
+    PUSH CX
+
+L2:
+    MOV AH,2H
+    MOV DL,2AH
+    INT 21H
+    LOOP L2
+    MOV DL,0Ah
+    INT 21H
+    MOV DL,0Dh
+    INT 21H
+    POP CX
+    LOOP L1
+    MOV CX,5
+
+L3:
+    PUSH CX
+
+L4:
+    MOV AH,2H
+    MOV DL,20H
+    INT 21H 
+    LOOP L4
+
+
+    MOV DL,2AH
+    INT 21H
+
+    MOV DL,0AH
+    INT 21H
+    MOV DL,0DH
+    INT 21H
+    POP CX
+
+    LOOP L3
+
+EXIT: INT 20H
+END START
