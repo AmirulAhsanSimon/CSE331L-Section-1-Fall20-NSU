@@ -1,0 +1,12 @@
+Videos:
+1. Installation of Proteus - https://www.youtube.com/watch?v=k__AlXLOot0
+2. Debugging Proteus - https://www.youtube.com/watch?v=8WUGe-Go-38
+3. Intro to Proteus - https://www.youtube.com/watch?v=PsJeNMyGX3I&t
+4. Basics of Proteus - https://www.youtube.com/watch?v=NJIbSI6qG6Q
+
+
+Resource:
+1. https://www.microchip.com/wwwproducts/en/PIC16F877A
+2. https://components101.com/microcontrollers/at89c51-8-bit-atmel-microcontroller
+3. https://simple-circuit.com/pic16f877a-projects/
+4. https://microcontrollerslab.com/pic-microcontroller-projects-for-eee-students/

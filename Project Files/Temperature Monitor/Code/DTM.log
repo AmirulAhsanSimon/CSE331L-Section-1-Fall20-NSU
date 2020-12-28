@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo20 -N"C:\Users\neloy\Dropbox\NSU Lab Officer\Semester\Fall'20\CSE331 Section 1\CSE331L-Section-1-Fall20-NSU-main\Project Files\Temperature Monitor\Code\DTM.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\neloy\Dropbox\NSU Lab Officer\Semester\Fall'20\CSE331 Section 1\CSE331L-Section-1-Fall20-NSU-main\Project Files\Temperature Monitor\Code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\neloy\Dropbox\NSU Lab Officer\Semester\Fall'20\CSE331 Section 1\CSE331L-Section-1-Fall20-NSU-main\Project Files\Temperature Monitor\Code\" "DTM.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_C.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	DTM.c
+diagnostics: 85	123	Compiled Successfully	DTM.c
+diagnostics: 0	127	All files Compiled in 172 ms	 
+hint: 0	1144	Used RAM (bytes): 64 (18%)  Free RAM (bytes): 288 (82%)	Used RAM (bytes): 64 (18%)  Free RAM (bytes): 288 (82%)
+hint: 0	1144	Used ROM (program words): 1146 (14%)  Free ROM (program words): 7046 (86%)	Used ROM (program words): 1146 (14%)  Free ROM (program words): 7046 (86%)
+diagnostics: 0	125	Project Linked Successfully	DTM.mcppi
+diagnostics: 0	128	Linked in 140 ms	 
+diagnostics: 0	129	Project 'DTM.mcppi' completed: 359 ms	 
+diagnostics: 0	103	Finished successfully: 27 Dec 2020, 09:36:17	DTM.mcppi
